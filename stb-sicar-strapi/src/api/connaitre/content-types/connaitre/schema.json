@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "connaitres",
+  "info": {
+    "singularName": "connaitre",
+    "pluralName": "connaitres",
+    "displayName": "connaitre"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "paragraph": {
+      "type": "text"
+    },
+    "investissement": {
+      "type": "json"
+    },
+    "intervention": {
+      "type": "json"
+    }
+  }
+}

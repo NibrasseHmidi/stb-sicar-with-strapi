@@ -1,0 +1,156 @@
+{
+  
+ 
+  "Services": [
+    {
+      "img": "img/services/img1.png",
+      "name": " UN ACCOMPAGNEMENT",
+      "text": "Nous partageons la conviction que la valeur d’une PME repose sur la qualité de son équipe dirigeante. En tant qu’actionnaire, nous nous positionnons comme un partenaire actif aux côtés des dirigeants. Ainsi, nos critères d’investissement privilégient, au-delà de l‘analyse économique et industrielle de la société, la qualité et la motivation des dirigeants auxquels nous nous associons."
+    },
+    
+    {
+      "img": "img/services/img3.png",
+      "name": "UNE AVENTURE HUMAINE",
+      "text": "Chaque partenariat est une aventure riche d’expériences partagées et d’ambitions assumées."
+      
+    },
+    {
+      "img": "img/services/img2.png",
+      "name": "  LES VALEURS QUI SE PARTAGENT",
+      "text": "Partager les valeurs de respect, de loyauté et de transparence pour poser ensemble les fondations d’un partenariat durable et constructif. Notre philosophie d'investissement est résolument « non-intrusive », pour préserver la liberté d’action des dirigeants de l’entreprise.Ainsi, tous nos investissements s’effectuent en mode minoritaire, en fonds propres et quasi-fonds propres. Nous privilégions une durée moyenne de participation « raisonnable », comprise entre 5 et 7 ans."
+    }
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/5.png",
+      "text": "\"Possèdant 29 ans d’expérience professionnelle, il a commencé sa carrière dans le secteur bancaire dans la BDET avant de rejoindre le groupe STB où il a notamment été Directeur des Crédits aux PME. Il a aussi été membre du Comité d’Investissement de la STB SICAR et du FCPR INTECH géré par la SAGES CAPITAL. Il a intégré en 2018 la STB SICAR en tant que Directeur Général.\"",
+      "name": " Mr Mohamed Metoui",
+      "role":"  Directeur general"
+    },
+    {
+      "img": "img/testimonials/3.jpeg",
+      "text": "\"Ayant 10 ans d expérience dans le Private Equity et 3 ans dans un cabinet d expertise comptable. Elle a suivi une formation de Maîtrise en sciences comptables à la Faculté des Sciences Economiques et de gestion de TUNIS « FSEGT » Elle a pour principale mission d assurer la fiabilité de l information financière et la réalisation de mission d audit interne et d investigation.\"",
+      "name": "Hajer Hannachi",
+      "role":" Auditrice interne"
+    },
+    {
+      "img": "img/testimonials/4.jpeg",
+      "text": "\"Riche d une expérience de plus de 16 ans, elle assure aujourd’hui la coordination entre les différents services administratifs, comptables, financier et contentieux. Elle possède un diplôme en Maîtrise en Administration Economique et Sociale de l’Institut Supérieur de Comptabilité de Tunis.\"",
+      "name": "Ines Mlika",
+      "role":" Responsable Back Office"
+    },
+    {
+      "img": "img/testimonials/1.jpeg",
+      "text": "\"Titulaire d une maitrise en Droit des Entreprises, a intégré la STB SICAR en 2002 en tant que Responsable du Contentieux en charge notamment du suivi et de l application des procédures des dossiers en phase contentieuse\"",
+      "name": "Anis Mlika",
+      "role":" Responsable contentieux"
+    },
+    {
+      "img": "img/testimonials/6.jpeg",
+      "text": "\"Titulaire d’une maitrise en Gestion, a rejoint la STB SICAR en 2002 où elle a exercé en tant que chargée d’affaires avant d’assurer les fonctions de responsable ressources humaines.\"",
+      "name": "Radhia Haddad",
+      "role":"  Responsable RH"
+    },
+    {
+      
+      "img": "img/testimonials/9.png",
+      "text": "\"Elle possède une expérience de plus de 18 ans dans le private equity. Elle est titulaire d’un diplôme de maitrise en sciences de gestion et d’un mastère en techniques bancaires. Elle a exercé en tant que coordinatrice responsable en charge du suivi de la gestion du portefeuille de participations et des études de projets.\"",
+      "name": "Dorra Chouchane",
+      "role":" Responsable Back Office"
+    },
+
+    {
+      "img": "img/testimonials/9.jpeg",
+      "text": "\"Titulaire d’un diplôme de Maitrise en Méthode Quantitative Appliqué à l’Economie et à la Gestion et d’un diplôme d’études Supérieures de l’Institut Technique de Banque, il intervient depuis 16 ans dans le domaine du private equity et en charge notamment de la réalisation d’études financières et la mise en place optimale des participations de la STB SICAR.\"",
+      "name": "Karim Aouadi",
+      "role":" Responsable etudes et mise en placex"
+    },
+    {
+      "img": "img/testimonials/2.jpeg",
+      "text": "\"Titulaire d un diplôme en Marketing de l ISG de Tunis, elle a rejoint la STB SICAR depuis 2001. Elle occupe actuellement le poste de Chargé Suivi Portofolio Management ayant comme principale mission l’élaboration de la politique de participation et de placement, la supervision de la gestion du portefeuille globale et le suivi des projets\"",
+      "name": "Haifa Jebnoun",
+      "role":"  Responsable suivi du porte-feuille"
+    },
+   
+   
+ 
+   
+    {
+      "img": "img/testimonials/7.jpeg",
+      "text": "\"Titulaire d’un diplôme de maitrise en Informatique Appliquée à la Gestion et d’un diplôme en Gestion d’Actifs, elle possède une expérience de plus de 6 ans dans le domaine du private equity et occupe actuellement le poste de Chargée Gestion des Sorties ayant comme principale mission le suivi et le recouvrement des sorties programmées du portefeuille participations.\"",
+      "name": "Sana Ben Nejma",
+      "role":"Responsable gestion des sorties"
+    }
+   
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.png",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/2.png",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/3.png",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/4.png",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/5.png",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/6.png",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "addresse": "  Siège social, Imm. El Emtiez. Centre Urbain Nord, 1003, Tunis. ",
+    "telephone": "+216 71 238 729 ou +216 71 233342",
+    "email": "info@stbsicar.com.tn",
+    "fax": "+216 71 234 411"
+    
+  },
+  "Features": [
+    {
+      "icon": "fa fa-briefcase",
+      "title": "23 ans D’expérience"
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "128MDT sous gestion"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "300 Investissemen en portefeuille"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "58 fonds gérés"
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "91 Sorties intégrales réalisées"
+    },
+    {
+      "icon": "fa fa-map-marker",
+      "title": "24 Régions"
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "1750 Emplois créés durant les 5 dernières années "
+    }
+  ]
+}

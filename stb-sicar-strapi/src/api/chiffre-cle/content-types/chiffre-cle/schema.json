@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "chiffre_cles",
+  "info": {
+    "singularName": "chiffre-cle",
+    "pluralName": "chiffre-cles",
+    "displayName": "chiffreCle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}
